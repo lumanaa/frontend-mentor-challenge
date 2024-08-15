@@ -22,6 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 [](/screenshot/web.png)
+<img src = '/screenshot/web.png ' />
 [](/screenshot/mobile.png)
 
 
