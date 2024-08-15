@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: <a href='https://github.com/lumanaa/qr-code-component.git'>Github Repo</a>
-- Live Site URL: - Solution URL: <a href='https://github.com/lumanaa/qr-code-component.git](https://qr-code-component-beige-nine.vercel.app/'>Live site</a>
+- Live Site URL: - Solution URL: <a href='https://qr-code-component-beige-nine.vercel.app/'>Live site</a>
 
 ## My process
 
