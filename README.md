@@ -42,7 +42,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Learned about CSS calculation using the calc() function
 
-
 ```css
 .qr-body {
   height: calc(531px - 32px);
